@@ -1,6 +1,6 @@
 ### Konnichiwa Minna-san 👋
 I am a fullstack software engineer from Mumbai
-Currently Working in Bangalore 
+currently Working in Bangalore 
 <br>
 ## Connect with me
 
