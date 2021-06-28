@@ -1,8 +1,6 @@
 ### Konnichiwa Minna-san 👋
 I am a fullstack software engineer from Mumbai
 Currently Working in Bangalore 
-- 🔭 Working on multiple frontend and backend project using React and Nodejs
-- 🌱 Learning design patterns in depth
 <br>
 ## Connect with me
 
