@@ -1,6 +1,7 @@
 ### Konnichiwa Minna-san 👋
 I am a fullstack software engineer from Mumbai
 currently Working in Bangalore 
+<br>
 ![](https://komarev.com/ghpvc/?username=cipherhacker)
 <br>
 ## Connect with me
